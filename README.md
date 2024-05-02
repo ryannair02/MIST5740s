@@ -27,11 +27,13 @@ Can be accessed by downloading [MIST540S KUSA Website Developement Process](http
 
 
 **Website Credentials:**
-To access the website with editing priviledges, please go to Wix.com and use the following username and password when prompted to signin:
+To access the website with editing privileges, please go to Wix.com and use the following username and password when prompted to sign in:
 
 Username: MIST5740s@gmail.com
 
 Password: ProjectManagement1245
+
+Otherwise, to just view the website follow this link: [CLICK HERE](https://ryannair2002.wixstudio.io/ksua) or manually paste into your browser: https://ryannair2002.wixstudio.io/ksua
 
 **FAQ**
 If certain files do not show up on GITHUB viewer please select view raw and download the file.
