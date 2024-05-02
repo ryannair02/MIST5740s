@@ -30,6 +30,7 @@ Can be accessed by downloading [MIST540S KUSA Website Developement Process](http
 To access the website with editing priviledges, please go to Wix.com and use the following username and password when prompted to signin:
 
 Username: MIST5740s@gmail.com
+
 Password: ProjectManagement1245
 
 **FAQ**
