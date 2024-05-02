@@ -25,9 +25,14 @@ Can be accessed by downloading [MIST5740S_Project WBS](https://github.com/ryanna
 **BPNM Model:**
 Can be accessed by downloading [MIST540S KUSA Website Developement Process](https://github.com/ryannair02/MIST5740s/blob/main/KUSA%20Website%20Development%20Process.pdf)
 
+**Final Presentation:**
+Can be accessed by downloading [MIST540S Final Presentation](https://github.com/ryannair02/MIST5740s/blob/main/MIST5740S%20Final%20Presentation.pptx)
+
 
 **Website Credentials:**
 To access the website with editing privileges, please go to Wix.com and use the following username and password when prompted to sign in:
+
+
 
 Username: MIST5740s@gmail.com
 
