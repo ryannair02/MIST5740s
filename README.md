@@ -13,4 +13,4 @@ Willie Malonda: 912-344-8840
 
 
 **Project Binder:**
-Can be accessed by downloading the **MIST5740S_Project.PDF**
+Can be accessed by downloading [MIST5740S_Project.PDF](https://github.com/ryannair02/MIST5740s/blob/main/MIST5740S%20Project.pdf)
