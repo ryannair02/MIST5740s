@@ -26,3 +26,11 @@ Can be accessed by downloading [MIST5740S_Project WBS](https://github.com/ryanna
 Can be accessed by downloading [MIST540S KUSA Website Developement Process](https://github.com/ryannair02/MIST5740s/blob/main/KUSA%20Website%20Development%20Process.pdf)
 
 
+**Website Credentials:**
+To access the website with editing priviledges, please go to Wix.com and use the following username and password when prompted to signin:
+
+Username: MIST5740s@gmail.com
+Password: ProjectManagement1245
+
+**FAQ**
+If certain files do not show up on GITHUB viewer please select view raw and download the file.
