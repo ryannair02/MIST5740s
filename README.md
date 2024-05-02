@@ -20,7 +20,7 @@ Willie Malonda: 912-344-8840
 Can be accessed by downloading [MIST5740S_Project.PDF](https://github.com/ryannair02/MIST5740s/blob/main/MIST5740S%20Project.pdf)
 
 **Work Breakdown Structure:**
-Can be accessed by downloading [MIST5740S_Project WBS](https://github.com/ryannair02/MIST5740s/blob/main/MIST5740S%20Project%20WBS)
+Can be accessed by downloading [MIST5740S_Project WBS](https://github.com/ryannair02/MIST5740s/blob/main/MIST5740S%20Project%20WBS%20Excel.xlsx)
 
 **BPNM Model:**
 Can be accessed by downloading [MIST540S KUSA Website Developement Process](https://github.com/ryannair02/MIST5740s/blob/main/KUSA%20Website%20Development%20Process.pdf)
